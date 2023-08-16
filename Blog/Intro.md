@@ -1,0 +1,9 @@
+# Intro
+
+Welcome to my Machine Learning blog. I have recently decided to start digging into some of the core concepts in Machine Learning and get some hands on experience building and deploying models myself. I wanted to document the process both for myself as I think it will help me learn the material more deeply and for anyone out there thinking about embarking on this journey. ’ve found I learn a lot better when I try to teach what I just learned to someone else. I have a Github repo with the relevant code and I’ll be referencing topics from the specific courses that I take along this process.
+
+For some context, this will be pretty technical and probably boring if you are not interested in AI. I’m also not really expecting anyone to read this so I won’t be spending any time trying to make this entertaining, apologies in advance for anyone who is bored enough to read this. The main goal is to really hammer home the concepts that I learn and showcase what I know!
+
+With that said, I do have some prior experience in the AI/ML world - so I’m not coming into this completely from scratch. In college, I spent the summer of 2018 doing research and building a Neural Network to predict the origination of captured neutrons. So, I have some experience with the basic concepts, but I have not done anything in the space since then. I’ve recently become interested again and am thinking about switching career fields (currently work in HFT). In order to do that I need to brush up on a lot of stuff and get my hands dirty with some code! 
+
+Feel free to reach me via email (ivanmorrow14@gmail.com) or twitter (@ivan_morrow).
